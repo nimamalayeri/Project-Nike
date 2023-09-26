@@ -39,11 +39,11 @@ const product = [
         colors : [
         {
         code:"pink" , 
-        img: "img/mercurial.png"
+        img: "img/Mercurial.png"
         } ,
         {
         code:"blue" , 
-        img:"img/mercurial 2.webp"
+        img:"img/Mercurial 2.webp"
         } 
         ] ,  
     },
